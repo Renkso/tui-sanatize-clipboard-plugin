@@ -1,6 +1,6 @@
 {
   "name": "tui-sanatize-clipboard-plugin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> This is a plugin of [TOAST UI Editor](https://github.com/nhn/tui.editor/tree/master/apps/editor) to sanatize clipboard.",
   "homepage": "https://github.com/Renkso/tui-sanatize-clipboard-plugin",
   "main": "dist/index.js",
