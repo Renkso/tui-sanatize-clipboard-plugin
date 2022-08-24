@@ -9,7 +9,7 @@ export default [
         plugins: [
             peerDepsExternal(),
             nodeResolve(),
-            // terser(),
+            terser(),
             sourceMaps(),
         ],
         preserveModules: false,
